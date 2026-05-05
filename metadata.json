@@ -1,0 +1,12 @@
+{
+  "name": "Bijak Bahasa: Kata Nama Adventure",
+  "description": "An interactive educational platform for Year 4 students to learn Malay nouns (Kata Nama Am & Khas) through games, flashcards, and an AI tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Chatbot",
+    "Interactive Quizzes",
+    "Educational Content"
+  ]
+}
